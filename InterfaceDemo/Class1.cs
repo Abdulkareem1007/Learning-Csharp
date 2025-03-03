@@ -12,7 +12,7 @@ namespace InheritanceDemo
     // suppose we have two classes class1 and class2 through inheritance we can consume all the members of class1 from class2.
     // it provide reusability.
 
-    //Note: the Child Class and consume the members of the Parent Class as if the Child class is the owner of the members.
+    //Note: the Child Class can consume the members of the Parent Class as if the Child class is the owner of the members.
     //      except the private member of the parent class.
 
     // Important things to know about the inheritance:
